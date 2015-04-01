@@ -3,7 +3,7 @@ posted to an RSS feed.
 
 Sorry this program is no longer actually running.  Below is how it used to work.  Even though I should have known
 better, I hard coded the gmail password into the .java file.  Now a year+ later, I had to change my password 
-and no longer have the environment to easily re-complie the code. 
+and no longer have the environment to easily re-complie the code.  Live and learn we shall. 
 
 What you do here is subscribe to this RSS feed with your favorite reader:  http://bobopearl.zapto.org/rss.xml
 Now anyone can post a new link to this RSS feed by simply adding a URL anywhere into the body of an email 
